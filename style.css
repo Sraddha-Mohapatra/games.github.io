@@ -1,0 +1,65 @@
+*{
+    margin: 30px;
+    padding: 20px;
+    border-width: 20px;
+    border-style: groove;
+    border-color: darkgoldenrod;
+    background-color: black;
+
+}
+.heading{
+    color: goldenrod;
+    text-shadow: 2px 2px 7px black;
+    text-decoration-line: underline;
+    text-decoration-style:solid;
+    border-style: unset;
+    background-color: unset;
+  
+}
+
+.container{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-image: url(bg.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 30px;
+text-align: center;
+color: black;
+font-weight: bolder;
+border-style: unset;
+
+}
+#cards-el{
+border-style: unset;
+text-shadow: 2px 2px 5px yellow;
+background-color: unset;
+}
+#sum-el{
+border-style: unset;
+text-shadow: 2px 2px 5px yellow;
+background-color: unset;
+}
+#message-el{
+    font-style: italic;
+    border-style: unset;
+    text-shadow: 2px 2px 5px yellow;
+    background-color: unset;
+}
+#player-el{
+    border-style: unset;
+    text-shadow: 2px 2px 5px yellow;
+    background-color: unset;
+}
+button{
+    font-size: 20px;
+    color: #016f32;
+    width: 200px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 7px;
+    text-shadow: 2px 2px 3px black;
+}
